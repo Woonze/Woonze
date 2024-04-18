@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Kirill Tur 👋
 
-<!--
-**Woonze/Woonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Some info about me:  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=06D200&random=false&width=435&lines=A+russian+student;RTU+MIREA+university)](https://git.io/typing-svg)
+  
+- 🤔 My humble skills:
+  
+[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=python3&text=2)](https://github.com/harish-sethuraman/readme-components)  
 
-Here are some ideas to get you started:
+[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=c++3&text=2)](https://github.com/harish-sethuraman/readme-components)  
+- 📫How to contact me:
+[@wasabichhh](http://t-do.ru/wasabichhh "Telegram")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
