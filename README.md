@@ -9,6 +9,6 @@
 
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=c++3&text=2)](https://github.com/harish-sethuraman/readme-components)  
 - 📫How to contact me:
-[@wasabichhh](http://t-do.ru/wasabichhh "Telegram")
+[@wasabichhh](http://t.me/wasabichhh "Telegram")
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
